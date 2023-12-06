@@ -1,0 +1,3 @@
+- [LilyGO T-DisplayS3 Libraries Used](https://github.com/Xinyuan-LilyGO/T-Display-S3)
+    - [ESP32-audioI2S](https://github.com/Xinyuan-LilyGO/T-Display-S3/tree/main/lib/ESP32-audioI2S-3.0.6)
+    - [TFT_eSPI](https://github.com/Xinyuan-LilyGO/T-Display-S3/tree/main/lib/TFT_eSPI)
